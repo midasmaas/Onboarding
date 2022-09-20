@@ -1,0 +1,138 @@
+$font-size-ratio:               1.55;
+$font-body-line-height:         1.6;
+$font-heading-line-height:      1.2;
+
+$font-size-sm:                 ($font-size);
+$font-size-md:                 ($font-size * $font-size-ratio);
+$font-size-lg:                 ($font-size * $font-size-ratio * $font-size-ratio);
+$font-size-xl:                 ($font-size * $font-size-ratio * $font-size-ratio * $font-size-ratio);
+$font-size-xxl:                ($font-size * $font-size-ratio * $font-size-ratio * $font-size-ratio * $font-size-ratio);
+$font-size-xxxl:               ($font-size * $font-size-ratio * $font-size-ratio * $font-size-ratio * $font-size-ratio * $font-size-ratio);
+
+body {
+    font-size: 16px;
+    font-family: $font-primary;
+    line-height: $font-body-line-height;
+
+    @include breakpoint(lg) {
+        font-size: 18px;
+    }
+
+    @include breakpoint(xxxl) {
+        font-size: 18px;
+    }
+}
+
+@mixin h1 {
+    font-size: 48px;
+    line-height: $font-heading-line-height;
+    margin-bottom: 24px;
+
+    @include breakpoint(lg) {
+    }
+
+    @include breakpoint(xxxl) {
+    }
+}
+
+h1, .h1 {
+    @include h1;
+}
+
+@mixin h2 {
+    font-size: 28px;
+    line-height: 34px;
+    margin-bottom: 16px;
+
+    @include breakpoint(lg) {
+
+    }
+
+    @include breakpoint(xxxl) {
+        font-size: 32px;
+        line-height: 130%;
+    }
+}
+
+h2, .h2 {
+    @include h2;
+}
+
+@mixin h3 {
+    font-size: 24px;
+    line-height: $font-heading-line-height;
+    margin-bottom: $spacing-sm;
+
+    @include breakpoint(lg) {
+        font-size: 24px;
+        margin-bottom: 16px;
+    }
+
+    @include breakpoint(xxxl) {
+        font-size: 24px;
+    }
+}
+
+h3, .h3 {
+    @include h3;
+}
+
+@mixin h4 {
+    font-size: 22px;
+    line-height: $font-heading-line-height;
+    margin-bottom: $spacing-sm;
+
+    @include breakpoint(lg) {
+
+    }
+
+    @include breakpoint(xxxl) {
+        font-size: 24px;
+    }
+}
+
+h4, .h4 {
+    @include h4;
+}
+
+@mixin h5 {
+    font-size: 20px;
+    line-height: $font-heading-line-height;
+    margin-bottom: $spacing-sm;
+
+    @include breakpoint(lg) {
+
+    }
+
+    @include breakpoint(xxxl) {
+        font-size: 22px;
+    }
+}
+
+h5, .h5 {
+    @include h5;
+}
+
+@mixin h6 {
+    font-size: 18px;
+    line-height: $font-heading-line-height;
+    margin-bottom: $spacing-sm;
+
+    @include breakpoint(lg) {
+
+    }
+
+    @include breakpoint(xxxl) {
+
+    }
+}
+
+h6, .h6 {
+    @include h6;
+}
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5,.h5, h6, .h6 {
+    font-family: $font-primary;
+    font-weight: 200;
+    font-style: normal;
+}

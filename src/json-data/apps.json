@@ -1,0 +1,162 @@
+[
+  {
+    "appTitle": "Confluence",
+    "appIcon": "static/images/AppIcon.png",
+    "catagory": "documenteren",
+    "discription": "Confluence is de tool die je helpt bij het verkrijgen van informatie over tal van belangrijke onderwerpen",
+    "links": [
+      {
+        "linkTitle": "Uitleg",
+        "linkURL": "https://www.atlassian.com/nl/software/confluence"
+      },
+      {
+        "linkTitle": "Coarse",
+        "linkURL": "https://www.atlassian.com/nl/software/confluence"
+      },
+      {
+        "linkTitle": "Artikel",
+        "linkURL": "https://www.atlassian.com/nl/software/confluence"
+      }
+    ]
+  },
+  {
+    "appTitle": "PHP-storm",
+    "appIcon": "static/images/AppIcon.png",
+    "catagory": "tech",
+    "discription": "De IDE die iedere Partout-developer gebruikt.",
+    "links": [
+      {
+        "linkTitle": "Installatie",
+        "linkURL": "https://www.jetbrains.com/phpstorm/"
+      },
+      {
+        "linkTitle": "F. A. Q.",
+        "linkURL": "https://www.jetbrains.com/phpstorm/"
+      },
+      {
+        "linkTitle": "JetBrains-lidmaatschap",
+        "linkURL": "https://www.jetbrains.com/phpstorm/"
+      }
+    ]
+  },
+  {
+    "appTitle": "Teams ",
+    "appIcon": "static/images/AppIcon.png",
+    "catagory": "Plannen",
+    "discription": "Onze vergadersoftware. Hier vergader je met het team en met onze klanten.",
+    "links": [
+      {
+        "linkTitle": "Installatie",
+        "linkURL": "https://www.microsoft.com/en-ww/microsoft-teams/log-in"
+      },
+      {
+        "linkTitle": "F. A. Q.",
+        "linkURL": "https://www.microsoft.com/en-ww/microsoft-teams/log-in"
+      },
+      {
+        "linkTitle": "Inlogtoken aanvragen",
+        "linkURL": "https://www.microsoft.com/en-ww/microsoft-teams/log-in"
+      }
+    ]
+  },
+  {
+    "appTitle": "Jira",
+    "appIcon": "static/images/AppIcon.png",
+    "catagory": "documenteren",
+    "discription": "Onze digitale whiteboard. Hier tref je SCRUM, Keek op de Week en scopingsessies.",
+    "links": [
+      {
+        "linkTitle": "Keek op de week",
+        "linkURL": "https://partout.atlassian.net/jira/software/projects/SCRUM/boards/207/backlog"
+      },
+      {
+        "linkTitle": "Tutorial",
+        "linkURL": "https://partout.atlassian.net/jira/software/projects/SCRUM/boards/207/backlog"
+      },
+      {
+        "linkTitle": "Jira-board aanmaken",
+        "linkURL": "https://partout.atlassian.net/jira/software/projects/SCRUM/boards/207/backlog"
+      }
+    ]
+  },
+  {
+    "appTitle": "Figma",
+    "appIcon": "static/images/AppIcon.png",
+    "catagory": "design",
+    "discription": "Onze designtool voor alles dat met UX-design van doen heeft.",
+    "links": [
+      {
+        "linkTitle": "Tips en tricks",
+        "linkURL": "https://www.figma.com/file/IDEpknFPzDny2kRIzFWq8f/SiteMapOnboarding?node-id=538%3A5743"
+      },
+      {
+        "linkTitle": "Tutorial",
+        "linkURL": "https://www.figma.com/file/IDEpknFPzDny2kRIzFWq8f/SiteMapOnboarding?node-id=538%3A5743"
+      },
+      {
+        "linkTitle": "Figma-bestand aanmaken",
+        "linkURL": "https://www.figma.com/file/IDEpknFPzDny2kRIzFWq8f/SiteMapOnboarding?node-id=538%3A5743"
+      }
+    ]
+  },
+  {
+    "appTitle": "Geru",
+    "appIcon": "static/images/AppIcon.png",
+    "catagory": "marketing",
+    "discription": "Geru is een tool om een funnel te simmuleren. Je hebt de mogelijkheid marketingcampanges en hun impact te simmuleren.",
+    "links": [
+      {
+        "linkTitle": "Support",
+        "linkURL": "https://geru.com/"
+      },
+      {
+        "linkTitle": "F. A. Q",
+        "linkURL": "https://geru.com/"
+      },
+      {
+        "linkTitle": "Tutorial",
+        "linkURL": "https://geru.com/"
+      }
+    ]
+  },
+  {
+    "appTitle": "Simplicate",
+    "appIcon": "static/images/AppIcon.png",
+    "catagory": "documenteren",
+    "discription": "Simplicate is onze plantool. We werken met urenregistratie. Je kunt de planning van jezelf, maar ook die van collega's inzien",
+    "links": [
+      {
+        "linkTitle": "Uren registreren",
+        "linkURL": "https://www.simplicate.com/nl/"
+      },
+      {
+        "linkTitle": "Inloggegevens aanvragen",
+        "linkURL": "https://www.simplicate.com/nl/"
+      },
+      {
+        "linkTitle": "Capaciteitsplanning",
+        "linkURL": "https://www.simplicate.com/nl/"
+      }
+    ]
+  },
+  {
+    "appTitle": "Docker",
+    "appIcon": "static/images/AppIcon.png",
+    "catagory": "tech",
+    "discription": "Docker biedt Tech de mogelijkheid je website te testen alsof deze online staat.",
+    "links": [
+      {
+        "linkTitle": "Installatiehandleiding",
+        "linkURL": "https://partout.atlassian.net/wiki/spaces/PD/pages/2434039855/Docker+development"
+      },
+      {
+        "linkTitle": "Installatie",
+        "linkURL": "https://partout.atlassian.net/wiki/spaces/PD/pages/2434039855/Docker+development"
+      },
+      {
+        "linkTitle": "WSL",
+        "linkURL": "https://partout.atlassian.net/wiki/spaces/PD/pages/2434039855/Docker+development"
+      }
+    ]
+  }
+]

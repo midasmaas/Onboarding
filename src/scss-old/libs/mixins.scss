@@ -1,0 +1,248 @@
+@charset "UTF-8";
+
+// ===============================================================
+// Mixins
+// ===============================================================
+
+
+// Clearfix
+@mixin clearfix {
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+// Font-size
+@mixin font-size(
+    $mixin-font-size: $font-size
+) {
+    font-size: $mixin-font-size;
+
+    @supports (font-size: calc(#{$mixin-font-size*0.86} + 3vw)) {
+        font-size: calc(#{$mixin-font-size*0.86} + 3vw);
+    }
+}
+
+// =============================================================================
+// Appearance
+// =============================================================================
+
+@mixin appearance($setting) {
+    -webkit-appearance: $setting;
+    -moz-appearance:    $setting;
+    appearance:         $setting;
+}
+
+// Placeholder
+@mixin placeholder(
+    $placeholder-background: transparent,
+    $placeholder-height: 380,
+    $placeholder-width: 640
+) {
+    padding-top: ((100% / $placeholder-width) * $placeholder-height);
+    max-width: $placeholder-width + px;
+    width: $placeholder-width + px;
+    position: relative;
+    display: block;
+
+    &::before {
+        background: $placeholder-background;
+        position: absolute;
+        content: '';
+        bottom: 0;
+        right: 0;
+        left: 0;
+        top: 0;
+    }
+
+    > img {
+        margin-top: - ($placeholder-height / $placeholder-width * 100%);
+        position: relative;
+        display: block;
+        width: 100%;
+    }
+}
+
+@mixin coverMedia {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translate(-50%, -50%);
+
+    @supports (object-fit: fill) {
+        position: absolute;
+        top: 0;
+        left: 0;
+        min-width: 100%;
+        min-height: 0;
+        width: 100%;
+        height: 100%;
+        transform: none;
+        object-fit: cover;
+    }
+}
+
+@mixin containMedia {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translate(-50%, -50%);
+
+    @supports (object-fit: fill) {
+        position: absolute;
+        top: 0;
+        left: 0;
+        min-width: 100%;
+        min-height: 0;
+        width: 100%;
+        height: 100%;
+        transform: none;
+        object-fit: contain;
+    }
+}
+
+@mixin lineInside {
+    $margin: 8px;
+
+    &:before {
+        position: absolute;
+        content: '';
+        box-sizing: border-box;
+        top: $margin;
+        left: $margin;
+        width: calc(100% - #{$margin * 2});
+        height: calc(100% - #{$margin * 2});
+    }
+
+    &:after {
+        position: absolute;
+        border: 3px solid $color-white;
+        content: '';
+        box-sizing: border-box;
+        top: $margin;
+        left: $margin;
+        width: calc(100% - #{$margin * 2});
+        height: calc(100% - #{$margin * 2});
+
+        @include breakpoint(md) {
+            border: 4px solid $color-white;
+        }
+    }
+
+    @include breakpoint(md) {
+
+    }
+
+    @include breakpoint(xxxl) {
+        $margin: 12px;
+
+        &:after {
+            top: $margin;
+            left: $margin;
+            width: calc(100% - #{$margin * 2});
+            height: calc(100% - #{$margin * 2});
+        }
+
+        &:before {
+            top: $margin;
+            left: $margin;
+            width: calc(100% - #{$margin * 2});
+            height: calc(100% - #{$margin * 2});
+        }
+    }
+}
+
+
+@mixin sliderTitle {
+    > h2 {
+        text-align: left;
+        color: $color-navy;
+        margin-bottom: 16px;
+
+        @include breakpoint(md) {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+    }
+}
+@mixin sliderBase {
+    .swiper-container {
+        overflow: visible;
+        width: 90%!important;
+        margin-left: 0;
+        margin-right: 0;
+
+        @include breakpoint(md) {
+            width: 100%!important;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+
+    .swiper-slide {
+        width: 100%!important;
+        opacity: 0;
+        transition: opacity 200ms ease-out;
+
+        @include breakpoint(md) {
+            width: 33%!important;
+        }
+    }
+
+    .swiper-slide-active {
+        opacity: 1;
+        transition: opacity 200ms ease-out;
+    }
+
+    .swiper-slide-next {
+        opacity: 1;
+        transition: opacity 200ms ease-out;
+
+        + .swiper-slide {
+            opacity: 1;
+            transition: opacity 200ms ease-out;
+        }
+    }
+
+    .swiper-button-prev, .swiper-button-next {
+        display: none;
+        width: 90px;
+        height: 90px;
+        background-color: $color-white;
+        border-radius: 50%;
+        margin-top: -45px;
+
+        @include breakpoint(md) {
+            display: inline-block;
+        }
+
+        &:after {
+            color: $color-navy;
+            left: 36px;
+            top: 22px;
+            position: relative;
+        }
+    }
+
+    .swiper-button-prev {
+        left: -84px;
+    }
+
+    .swiper-button-next {
+        right: -84px;
+    }
+}
+
+@mixin paddingUsps() {
+    padding-top: 84px;
+
+    @include breakpoint(md) {
+        padding-top: 144px;
+    }
+}

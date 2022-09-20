@@ -1,0 +1,25 @@
+.media-right__media{
+  grid-column: 1/13;
+  grid-row: 2;
+  @include media-breakpoint-up(md){
+    grid-row: 1;
+    grid-column: 9/13;
+  }
+  ul{
+    display: flex;
+    flex-direction: column;
+  }
+  li{
+    list-style: none;
+    margin: auto;
+  }
+}
+
+.media-right__text {
+  grid-column: 1/13;
+  grid-row: 1;
+  @include media-breakpoint-up(md) {
+    grid-row: 1;
+    grid-column: 1/8;
+  }
+}

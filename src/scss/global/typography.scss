@@ -1,0 +1,35 @@
+h1 {
+  padding-top: 24px;
+  font-family: "GT Flexa";
+  font-size: 28px;
+  @include media-breakpoint-up(lg) {
+    font-size: 36px;
+  }
+  background: radial-gradient(circle, rgba(155,56,255,1) 0%, rgba(72,56,255,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h2 {
+  padding-top: 24px;
+  font-family: "GT Flexa";
+  font-size: 20px;
+  @include media-breakpoint-up(lg) {
+    font-size: 28px;
+  }
+  background: radial-gradient(circle, rgba(155,56,255,1) 0%, rgba(72,56,255,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+p {
+  font-family: Inter;
+  font-size: 14px;
+  color: #3D4047;
+}
+
+a{
+  font-family: "GT Flexa";
+  font-size: 14px;
+  color: #3D4047;
+}

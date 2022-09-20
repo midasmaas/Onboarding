@@ -1,0 +1,71 @@
+.slide {
+    color: $color-navy;
+
+    figure {
+        position: relative;
+        height: 284px;
+        margin-bottom: 16px;
+
+        @include breakpoint(md) {
+            height: 164px;
+        }
+
+        @include breakpoint(lg) {
+            height: 284px;
+        }
+
+        img {
+            @include coverMedia;
+        }
+    }
+
+}
+
+.slide__content {
+    padding-right: 0;
+
+    @include breakpoint(lg) {
+        padding-right: 24px;
+    }
+
+    h2 {
+        padding-bottom: 8px;
+        font-size: 20px;
+        line-height: 1.2;
+        font-weight: 500;
+        text-transform: uppercase;
+        margin-bottom: 8px;
+        border-bottom: 2px solid #A6A9AA;
+
+        @include breakpoint(md) {
+            font-size: 16px;
+            line-height: 20px;
+        }
+
+        @include breakpoint(lg) {
+            font-size: 20px;
+            line-height: 1.2;
+        }
+    }
+
+    p {
+        font-size: 16px;
+        font-weight: 200;
+        line-height: 18px;
+        margin-bottom: 8px;
+    }
+
+    span {
+        display: block;
+        font-size: 14px;
+        line-height: 150%;
+    }
+
+    .btn {
+        padding: 14px 70px;
+
+        @include breakpoint(md) {
+            padding: 14px 46px;
+        }
+    }
+}

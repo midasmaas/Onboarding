@@ -1,0 +1,139 @@
+$moduleBg: #FFFFFF;
+$white: #FFFFFF;
+$black: #222222;
+$yellow: #FFE91F;
+$blue: #5838FF;
+$warmGray: #FFF6EC;
+$lightGray: #F9F9F9;
+$mediumGray: #E7E7E7;
+$darkGray: #3D4047;
+
+.dashboardModulesGridContainer {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  padding: 80px 0px;
+  li{
+    list-style: none;
+  }
+}
+
+.dashboardModulesGrid {
+  display: inline-grid;
+  grid-template-columns: repeat(1, auto);
+  padding: 10px;
+  grid-gap: 10px;
+  @include media-breakpoint-up(sm){
+    grid-template-columns: repeat(2, auto);
+  }
+  @include media-breakpoint-up(md){
+    grid-template-columns: repeat(3, auto);
+  }
+  @include media-breakpoint-up(xl){
+    grid-template-columns: repeat(4, auto);
+  }
+}
+
+.dashboardModule{
+  width: 228px;
+  height: fit-content;
+  background-color: $moduleBg;
+  border-radius: 8px;
+  padding: 24px;
+}
+
+.dashboardImage {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 16px 0px;
+}
+
+.labelModuleDiv{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.labelModule {
+  font-family: Inter;
+  color: $darkGray;
+}
+
+//beginning of the progess bar styling
+progress[value] {
+  /* Reset the default appearance */
+  -webkit-appearance: none;
+  appearance: none;
+
+  width: 100%;
+  height: 8px;
+}
+
+progress[value]::-webkit-progress-bar {
+  background-color: $mediumGray;
+  border-radius: 4px;
+}
+
+progress::-webkit-progress-value {
+  background: $blue;
+  border-radius: 4px;
+}
+//ending of the progress bar styling
+
+.dashboardModuleProgressDiv {
+  padding-bottom: 24px;
+}
+
+.dashboardTitle {
+  font-family: "GT Flexa";
+  margin-bottom: 16px;
+}
+
+.dashboardCopy p{
+  font-family: Inter;
+  margin-bottom: 24px;
+  color: $darkGray;
+  line-height: 170%;
+}
+
+.dashboardModuleButton {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.dashboardModuleButtonPositioningDiv {
+  width: fit-content;
+  background-color: $yellow;
+  padding: 8px 8px;
+  border-radius: 50px;
+  display: flex;
+  flex-display: row;
+  text-decoration: none;
+  p {
+    font-family: "GT Flexa";
+    font-size: 16px;
+    margin: 0px 8px;
+    color: $darkGray;
+  }
+
+  svg {
+    margin: 0px 8px;
+  }
+
+  &:hover {
+    cursor: pointer;
+    -webkit-transition: all 300ms ease;
+    transition: all 300ms ease;
+    background-color: $blue;
+    p {
+      color: $white;
+    }
+    svg {
+      fill: $white;
+    }
+  }
+}

@@ -1,0 +1,71 @@
+[
+  {
+    "id": 0,
+    "name": "Week 1",
+    "intro": "Bij deze course maak je kennis met je nieuwe werkplek Partout en vertellen we je wat je nodig hebt om jouw avontuur hier te beginnen.",
+    "chapters": [
+      {
+        "id": 0,
+        "chapterTitle": "Buddy",
+        "text": "<h1 class=\"Midas\">Buddy</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul> <h2> De opdracht </h2>",
+        "imgPaths": [
+          "static/images/TestImageGroot.jpg",
+          "static/images/TestImageKlein.jpg"
+        ],
+        "checkboxes": [
+          "Plan een afspraak met je buddy",
+          "Maak kennis met je buddy",
+          "Buddy ontmoet"
+        ],
+        "done": false
+      },
+      {
+        "id": 1,
+        "chapterTitle": "Eerste dag",
+        "text": "<h1>Eerste dag</h1> <br> <p>Jouw eerste dag verloopt zus en zus en zo... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p>  <h2> De opdracht </h2> <p>Richt je bureau in en stel deze goed af.</p> <label for=\"zitplaats\" class=\"standard\"> <input id=\"zitplaats\" type=\"checkbox\"> <span class=\"module__chapters__status__next__circle\"></span> <p class=\"module__chapters__status__next__title\"> Zoek een zitplaats </p> </label> <label for=\"stelaf\" class=\"standard\"> <input id=\"stelaf\" type=\"checkbox\"> <span class=\"module__chapters__status__next__circle\"></span> <p class=\"module__chapters__status__next__title\"> Stel je bureau af. </p> </label>",
+        "imgPaths": [
+          "static/images/TestImageGroot.jpg",
+          "static/images/TestImageKlein.jpg"
+        ],
+        "done": false
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Agenda",
+    "intro": "Bij deze course maak je kennis met je nieuwe werkplek Partout en vertellen we je wat je nodig hebt om jouw avontuur hier te beginnen.",
+    "chapters": [
+      {
+        "id": 0,
+        "chapterTitle": "Simplicate",
+        "text": "<h1>Simplicate</h1> <br> <p>Voor onze planning gebruiken wij Simplicate. Met alleen het aanmaken van een proefaccount ben je er nog niet. Ondanks dat de software het meeste werk voor je doet, moet je (eenmalig) een aantal zaken goed inrichten, zodat Simplicate vanaf dat moment belangrijke taken van je overneemt!</p> <br <p>Zorg er daarom voor dat je tijd reserveert om Simplicate op de juiste manier in te richten en stel, voorafgaand aan de online demo, alvast je eigen doelen en prioriteiten op.</p> <br> <p>Zodra je ervoor kiest om daadwerkelijk van start te gaan, zal het Customer Success Team van Simplicate je hier persoonlijk bij ondersteunen middels een onboardingprogramma.</p> <h2>Hoe je dat doet</h2> <br> <p>Voor onze planning gebruiken wij Simplicate. Met alleen het aanmaken van een proefaccount ben je er nog niet. Ondanks dat de software het meeste werk voor je doet, moet je (eenmalig) een aantal zaken goed inrichten, zodat Simplicate vanaf dat moment belangrijke taken van je overneemt!</p> <br> <p>Zorg er daarom voor dat je tijd reserveert om Simplicate op de juiste manier in te richten en stel, voorafgaand aan de online demo, alvast je eigen doelen en prioriteiten op.</p> <br> <p>\nZodra je ervoor kiest om daadwerkelijk van start te gaan, zal het Customer Success Team van Simplicate je hier persoonlijk bij ondersteunen middels een onboardingprogramma.</p <h2>Handige links en artikelen</h2> <ul> <li> Uileg Simplicate </li> <li> Simplicate website </li> <li> Jira website </li> </ul> <h2> De opdracht </h2> <p>Plan een afspraak met je buddy.</p> <label for=\"planafspraak\" class=\"standard\"> <input id=\"planafspraak\" type=\"checkbox\"> <span class=\"module__chapters__status__next__circle\"></span> <p class=\"module__chapters__status__next__title\"> Plan de afspraak via Teams </p> </label> <label for=\"afspraakgehad\" class=\"standard\"> <input id=\"afspraakgehad\" type=\"checkbox\"> <span class=\"module__chapters__status__next__circle\"></span> <p class=\"module__chapters__status__next__title\"> Afspraak gehad </p> </label>",
+        "imgPaths": [
+          "static/images/TestImageGroot.jpg",
+          "static/images/TestImageKlein.jpg"
+        ],
+        "done": false
+      },
+      {
+        "id": 1,
+        "chapterTitle": "Uren boeken",
+        "text": "<h1>Uren boeken</h1> <br> <p>Jouw eerste dag verloopt zus en zus en zo... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Zoe boek je uren</h2> <br> <p>Uren boeken doe je zo. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p>  <h2> De opdracht </h2> <p>Boek uren via het systeem op de juiste manier</p> <label for=\"urenboeken\" class=\"standard\"> <input id=\"urenboeken\" type=\"checkbox\"> <span class=\"module__chapters__status__next__circle\"></span> <p class=\"module__chapters__status__next__title\"> Boek uren via het systeem </p> </label> <label for=\"beschrijving\" class=\"standard\"> <input id=\"beschrijving\" type=\"checkbox\"> <span class=\"module__chapters__status__next__circle\"></span> <p class=\"module__chapters__status__next__title\"> Voeg een beschrijving toe aan je gemaakte uren </p> </label>",
+        "imgPaths": [
+          "static/images/TestImageGroot.jpg",
+          "static/images/TestImageKlein.jpg"
+        ],
+        "done": false
+      },
+      {
+        "id": 2,
+        "chapterTitle": "Verlof",
+        "text": "<h1>Verlof aanvragen</h1> <br> <p>Verlof aanvragen werkt op deze en deze manier... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Hoe vraag je verlof aan?</h2> <br> <p>Verlof aanvragen werkt op deze manier. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p>  <h2> De opdracht </h2> <p>Doe een testverlofaanvraag.</p> <label for=\"testaanvraag\" class=\"standard\"> <input id=\"testaanvraag\" type=\"checkbox\"> <span class=\"module__chapters__status__next__circle\"></span> <p class=\"module__chapters__status__next__title\"> Doe een testaanvraag </p> </label>",
+        "imgPaths": [
+          "static/images/TestImageGroot.jpg",
+          "static/images/TestImageKlein.jpg"
+        ],
+        "done": false
+      }
+    ]
+  }
+]

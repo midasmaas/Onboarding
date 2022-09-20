@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Bram",
+    "function": "motion",
+    "department": "design",
+    "phone": "tel: 06-12345678",
+    "teamsMessage": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat",
+    "agenda": "https://www.simplicate.com/nl/",
+    "email": "mailto: bram@partout.nl",
+    "profilePic": "static/images/collega.jpg",
+    "buttons": [
+      {
+        "buttonIMG": "static/images/icons/phoneIcon.svg",
+        "buttonType": "phone",
+        "buttonPath": "https://www.simplicate.com/nl/"
+      },
+      {
+        "buttonIMG": "static/images/icons/teamsIcon.svg",
+        "buttonType": "teams",
+        "buttonPath": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat"
+      },
+      {
+        "buttonIMG": "static/images/icons/emailIcon.svg",
+        "buttonType": "email",
+        "buttonPath": "mailto: midas@partout.nl"
+      },
+      {
+        "buttonIMG": "static/images/icons/callendarIcon.svg",
+        "buttonType": "callender",
+        "buttonPath": "tel: +31612345678"
+      }
+    ]
+  },
+  {
+    "name": "Jurian",
+    "function": "lead design",
+    "department": "design",
+    "phone": "tel: 06-12345678",
+    "teamsMessage": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat",
+    "agenda": "https://www.simplicate.com/nl/",
+    "email": "mailto: jurian@partout.nl",
+    "profilePic": "static/images/collega.jpg",
+    "buttons": [
+      {
+        "buttonIMG": "static/images/icons/phoneIcon.svg",
+        "buttonType": "phone",
+        "buttonPath": "https://www.simplicate.com/nl/"
+      },
+      {
+        "buttonIMG": "static/images/icons/teamsIcon.svg",
+        "buttonType": "teams",
+        "buttonPath": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat"
+      },
+      {
+        "buttonIMG": "static/images/icons/emailIcon.svg",
+        "buttonType": "email",
+        "buttonPath": "mailto: midas@partout.nl"
+      },
+      {
+        "buttonIMG": "static/images/icons/callendarIcon.svg",
+        "buttonType": "callender",
+        "buttonPath": "tel: +31612345678"
+      }
+    ]
+  },
+  {
+    "name": "Maarten",
+    "function": "lead tech",
+    "department": "tech",
+    "phone": "tel: 06-12345678",
+    "teamsMessage": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat",
+    "agenda": "https://www.simplicate.com/nl/",
+    "email": "mailto: maarten@partout.nl",
+    "profilePic": "static/images/collega.jpg",
+    "buttons": [
+      {
+        "buttonIMG": "static/images/icons/phoneIcon.svg",
+        "buttonType": "phone",
+        "buttonPath": "https://www.simplicate.com/nl/"
+      },
+      {
+        "buttonIMG": "static/images/icons/teamsIcon.svg",
+        "buttonType": "teams",
+        "buttonPath": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat"
+      },
+      {
+        "buttonIMG": "static/images/icons/emailIcon.svg",
+        "buttonType": "email",
+        "buttonPath": "mailto: midas@partout.nl"
+      },
+      {
+        "buttonIMG": "static/images/icons/callendarIcon.svg",
+        "buttonType": "callender",
+        "buttonPath": "tel: +31612345678"
+      }
+    ]
+  },
+  {
+    "name": "Edwin",
+    "function": "front-end",
+    "department": "tech",
+    "phone": "tel: 06-12345678",
+    "teamsMessage": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat",
+    "agenda": "https://www.simplicate.com/nl/",
+    "email": "mailto: edwin@partout.nl",
+    "profilePic": "static/images/collega.jpg",
+    "buttons": [
+      {
+        "buttonIMG": "static/images/icons/phoneIcon.svg",
+        "buttonType": "phone",
+        "buttonPath": "https://www.simplicate.com/nl/"
+      },
+      {
+        "buttonIMG": "static/images/icons/teamsIcon.svg",
+        "buttonType": "teams",
+        "buttonPath": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat"
+      },
+      {
+        "buttonIMG": "static/images/icons/emailIcon.svg",
+        "buttonType": "email",
+        "buttonPath": "mailto: midas@partout.nl"
+      },
+      {
+        "buttonIMG": "static/images/icons/callendarIcon.svg",
+        "buttonType": "callender",
+        "buttonPath": "tel: +31612345678"
+      }
+    ]
+  },
+  {
+    "name": "Toby",
+    "function": "SEO",
+    "department": "marketing",
+    "phone": "tel: 06-12345678",
+    "teamsMessage": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat",
+    "agenda": "https://www.simplicate.com/nl/",
+    "email": "mailto: toby@partout.nl",
+    "profilePic": "static/images/collega.jpg",
+    "buttons": [
+      {
+        "buttonIMG": "static/images/icons/phoneIcon.svg",
+        "buttonType": "phone",
+        "buttonPath": "https://www.simplicate.com/nl/"
+      },
+      {
+        "buttonIMG": "static/images/icons/teamsIcon.svg",
+        "buttonType": "teams",
+        "buttonPath": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat"
+      },
+      {
+        "buttonIMG": "static/images/icons/emailIcon.svg",
+        "buttonType": "email",
+        "buttonPath": "mailto: midas@partout.nl"
+      },
+      {
+        "buttonIMG": "static/images/icons/callendarIcon.svg",
+        "buttonType": "callender",
+        "buttonPath": "tel: +31612345678"
+      }
+    ]
+  },
+  {
+    "name": "Merette",
+    "function": "SEA",
+    "department": "marketing",
+    "phone": "tel: 06-12345678",
+    "teamsMessage": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat",
+    "agenda": "https://www.simplicate.com/nl/",
+    "email": "mailto: merette@partout.nl",
+    "profilePic": "static/images/collega.jpg",
+    "buttons": [
+      {
+        "buttonIMG": "static/images/icons/phoneIcon.svg",
+        "buttonType": "phone",
+        "buttonPath": "https://www.simplicate.com/nl/"
+      },
+      {
+        "buttonIMG": "static/images/icons/teamsIcon.svg",
+        "buttonType": "teams",
+        "buttonPath": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat"
+      },
+      {
+        "buttonIMG": "static/images/icons/emailIcon.svg",
+        "buttonType": "email",
+        "buttonPath": "mailto: midas@partout.nl"
+      },
+      {
+        "buttonIMG": "static/images/icons/callendarIcon.svg",
+        "buttonType": "callender",
+        "buttonPath": "tel: +31612345678"
+      }
+    ]
+  },
+  {
+    "name": "Jeroen",
+    "function": "baas",
+    "department": "office",
+    "phone": "tel: 06-12345678",
+    "teamsMessage": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat",
+    "agenda": "https://www.simplicate.com/nl/",
+    "email": "mailto: jeroen@partout.nl",
+    "profilePic": "static/images/collega.jpg",
+    "buttons": [
+      {
+        "buttonIMG": "static/images/icons/phoneIcon.svg",
+        "buttonType": "phone",
+        "buttonPath": "https://www.simplicate.com/nl/"
+      },
+      {
+        "buttonIMG": "static/images/icons/teamsIcon.svg",
+        "buttonType": "teams",
+        "buttonPath": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat"
+      },
+      {
+        "buttonIMG": "static/images/icons/emailIcon.svg",
+        "buttonType": "email",
+        "buttonPath": "mailto: midas@partout.nl"
+      },
+      {
+        "buttonIMG": "static/images/icons/callendarIcon.svg",
+        "buttonType": "callender",
+        "buttonPath": "tel: +31612345678"
+      }
+    ]
+  },
+  {
+    "name": "Thea",
+    "function": "administratie",
+    "department": "office",
+    "phone": "tel: 06-12345678",
+    "teamsMessage": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat",
+    "agenda": "https://www.simplicate.com/nl/",
+    "email": "mailto: thea@partout.nl",
+    "profilePic": "static/images/collega.jpg",
+    "buttons": [
+      {
+        "buttonIMG": "static/images/icons/phoneIcon.svg",
+        "buttonType": "phone",
+        "buttonPath": "https://www.simplicate.com/nl/"
+      },
+      {
+        "buttonIMG": "static/images/icons/teamsIcon.svg",
+        "buttonType": "teams",
+        "buttonPath": "https://teams.microsoft.com/_?culture=nl-nl&country=NL&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/conversations/19:1ef203b4-1c39-4bc9-a67e-e9e7090dfd09_815ba24b-58ee-4ba4-96e9-ddb004416d8d@unq.gbl.spaces?ctx=chat"
+      },
+      {
+        "buttonIMG": "static/images/icons/emailIcon.svg",
+        "buttonType": "email",
+        "buttonPath": "mailto: midas@partout.nl"
+      },
+      {
+        "buttonIMG": "static/images/icons/callendarIcon.svg",
+        "buttonType": "callender",
+        "buttonPath": "tel: +31612345678"
+      }
+    ]
+  }
+]

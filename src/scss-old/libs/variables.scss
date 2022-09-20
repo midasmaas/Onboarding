@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+// ===============================================================
+// Variables
+// ===============================================================
+
+// Colors
+$color-primary:                 #1573FF;
+$color-secondary:               #4ace00;
+$color-tertiary:                #fdd400;
+
+$color-white:                   #ffffff;
+$color-black:                   #000000;
+$color-lightblack:              #121212;
+$color-gray:                    #949494;
+$color-darkgray:                #2C2A2A;
+$color-lightgray:               #E7E7E7;
+
+$color-blue:                    #1573FF;
+$color-navy:                    #0D2041;
+$color-green:                   #92B83A;
+$color-red:                     #bd1327;
+$color-orange:                  #FF9F2E;
+$color-yellow:                  #D4E116;
+$color-purple:                  #751961;
+
+$color-error:                   #FF9F2E;
+$color-warning:                 #FF9F2E;
+$color-success:                 #92B83A;
+$color-info:                    $color-blue;
+$color-alert:                   #E52121;
+
+// Fonts
+$font-primary:                  'Arial', sans-serif;
+$font-secondary:                'Abel', sans-serif;
+$font-tertiary:                 'Special Elite', cursive;
+
+$font-size:                     16px;
+$font-size-small:               14px;
+$font-size-large:               20px;
+
+$font-color:                    $color-darkgray;
+$font-color-title:              $color-darkgray;
+$font-color-link:               $color-black;
+
+$font-shadow:                   0px 2px 60px rgba(0, 0, 0, 0.8);
+
+// Spacings
+$spacing-xs:                     8px;
+$spacing-sm:                     16px;
+$spacing-md:                     32px;
+$spacing-lg:                     48px;
+$spacing-xl:                     64px;
+$spacing-xxl:                    128px;
+
+// Media Queries
+$breakpoint-sm:                 480px;
+$breakpoint-md:                 720px;
+$breakpoint-lg:                 960px;
+$breakpoint-xl:                 1280px;
+$breakpoint-xxl:                1440px;
+$breakpoint-xxxl:               1920px;
+
+// Max widths
+$max-width-lg:                  940px;
+$max-width-xl:                  1180px;
+$max-width-xxl:                 1180px;
+$max-width-xxxl:                1180px;
+
+// Container widths
+$container-width:               960px;
+$container-width-sm:            1240px;
+$container-width-lg:            1400px;
+
+// Grid
+$gutter:                        $spacing-sm;
+$spacer:                        $spacing-xl;
+
+// Form styling
+$form-border-radius:            2px;
+$form-border-width:             1px;
+$form-border-style:             solid;
+$form-border-color:             $color-gray;
+$form-border-color--error:      $color-error;
+$form-border-color--focus:      $color-darkgray;
+$form-border-color--checked:    $color-darkgray;
+$form-border-color--disabled:   $color-lightgray;
+$form-border:                   $form-border-width $form-border-style $form-border-color;
+$form-text-color:               $color-black;
+$form-text-color--focus:        $font-color;
+$form-text-color--checked:      $color-primary;
+$form-text-color--disabled:     $color-lightgray;
+$form-background:               $color-white;
+$form-background--disabled:     darken($form-background,5%);
+$form-box-shadow:               0px 0px 0px 3px rgba(0,0,0,0.1);
+$form-box-shadow--error:        0px 0px 0px 3px rgba($form-border-color--error,0.1);

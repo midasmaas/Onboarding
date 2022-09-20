@@ -1,0 +1,1097 @@
+[
+  {
+    "id": 0,
+    "name": "Week 1",
+    "intro": "Bij deze course maak je kennis met je nieuwe werkplek Partout en vertellen we je wat je nodig hebt om jouw avontuur hier te beginnen.",
+    "chapters": [
+      {
+        "id": 0,
+        "mediaType": "mediaLeft",
+        "chapterTitle": "Buddy",
+        "contentBlocks": [
+          {
+            "blockType": "mediaRight",
+            "blockData": "<h1 class=\"Midas\">Buddy</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/collega.jpg"
+            ]
+          }
+        ],
+
+        "tasks": [
+          {
+            "id": 1,
+            "description": "Plan een afspraak met je buddy"
+          },
+          {
+            "id": 2,
+            "description": "Maak kennis met je buddy"
+          },
+          {
+            "id": 3,
+            "description": "Buddy ontmoet"
+          }
+
+        ]
+      },
+      {
+        "id": 1,
+        "chapterTitle": "Eerste dag",
+        "contentBlocks": [
+          {
+            "blockType": "mediaLeft",
+            "blockData": "<h1>Eerste dag</h1> <br> <p>Jouw eerste dag verloopt zus en zus en zo... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p>",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/collega.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 4,
+            "description": "Bezoek je werkplek"
+          },
+          {
+            "id": 5,
+            "description": "Begroet iedereen"
+          },
+          {
+            "id": 6,
+            "description": "Zet koffie"
+          },
+          {
+            "id": 7,
+            "description": "Ga mee lunchen"
+          },
+          {
+            "id": 8,
+            "description": "Zeg iedereen gedag"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Agenda",
+    "intro": "Bij deze course maak je kennis met je nieuwe werkplek Partout en vertellen we je wat je nodig hebt om jouw avontuur hier te beginnen.",
+    "chapters": [
+      {
+        "id": 0,
+        "chapterTitle": "Simplicate",
+        "contentBlocks": [
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          },
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1>Uren boeken</h1> <br> <p>Uren boeken is belangrijk. </p> <br> <p> Zorg er daarom voor dat je tijd reserveert om Simplicate op de juiste manier in te richten en stel, voorafgaand aan de online demo, alvast je eigen doelen en prioriteiten op. </p> <br> <p>Zodra je ervoor kiest om daadwerkelijk van start te gaan, zal het Customer Success Team van Simplicate je hier persoonlijk bij ondersteunen middels een onboardingprogramma.</p> <h2>Hoe je dat doet</h2> <br> <p>Voor onze planning gebruiken wij Simplicate. Met alleen het aanmaken van een proefaccount ben je er nog niet. Ondanks dat de software het meeste werk voor je doet, moet je (eenmalig) een aantal zaken goed inrichten, zodat Simplicate vanaf dat moment belangrijke taken van je overneemt!</p> <br> <p>Zorg er daarom voor dat je tijd reserveert om Simplicate op de juiste manier in te richten en stel, voorafgaand aan de online demo, alvast je eigen doelen en prioriteiten op.</p> <br> <p>Zodra je ervoor kiest om daadwerkelijk van start te gaan, zal het Customer Success Team van Simplicate je hier persoonlijk bij ondersteunen middels een onboardingprogramma.</p> <h2> Handige artikelen en links </h2> <br> <ul> <li> Uileg Simplicate </li> <li> Hoe uren te boeken </li> <li> Hoe vrij te vragen </li>"
+          }
+          ],
+        "tasks": [
+          {
+            "id": 9,
+            "description": "Volg de uitleg"
+          },
+          {
+            "id": 10,
+            "description": "Lees de artikelen"
+          },
+          {
+            "id": 11,
+            "description": "Plan een dummy-afspraak in"
+          },
+          {
+            "id": 12,
+            "description": "Laat deze checken"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "chapterTitle": "Uren boeken",
+        "contentBlocks": [
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          },
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1>Uren boeken</h1> <br> <p>Jouw eerste dag verloopt zus en zus en zo... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Zoe boek je uren</h2> <br> <p>Uren boeken doe je zo. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p>"
+          }
+        ],
+        "tasks": [
+          {
+            "id": 12,
+            "description": "Boek zelf uren in"
+          },
+          {
+            "id": 13,
+            "description": "Laat dit checken door je buddy"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "chapterTitle": "Verlof",
+        "contentBlocks": [
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          },
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1>Verlof aanvragen</h1> <br> <p>Verlof aanvragen werkt op deze en deze manier... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Hoe vraag je verlof aan?</h2> <br> <p>Verlof aanvragen werkt op deze manier. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p>"
+          }
+        ],
+        "tasks": [
+          {
+            "id": 14,
+            "description": "Bedenk wanneer je verlof wilt"
+          },
+          {
+            "id": 15,
+            "description": "Vraag verlof aan"
+          },
+          {
+            "id": 16,
+            "description": "Krijg goedkeuring"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Werkwijzen",
+    "intro": "Bij deze course maak je kennis met je nieuwe werkplek Partout en vertellen we je wat je nodig hebt om jouw avontuur hier te beginnen.",
+    "chapters": [
+      {
+        "id": 0,
+        "chapterTitle": "Offerte",
+        "contentBlocks": [
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          },
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1 class=\"Midas\">Offerte</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>"
+          }
+        ],
+
+        "tasks": [
+          {
+            "id": 17,
+            "description": "Bekijk de standaard offerte"
+          },
+          {
+            "id": 18,
+            "description": "Maak zelf een offerte aan"
+          },
+          {
+            "id": 19,
+            "description": "Volg de uitleg over offertes"
+          },
+          {
+            "id": 20,
+            "description": "Communiceer met klant over offerte"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "chapterTitle": "WoW",
+        "contentBlocks": [
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          },
+          {
+            "blockType": "mediaRight",
+            "blockData": "<h1>Way of Working (WoW)</h1> <br> <p>Jouw eerste dag verloopt zus en zus en zo... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p>",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 21,
+            "description": "Bekijk het WoW-tabel"
+          },
+          {
+            "id": 22,
+            "description": "Beantwoord de vragen"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "chapterTitle": "Service desk",
+        "contentBlocks": [
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1>Service desk</h1> <br> <p>Jouw eerste dag verloopt zus en zus en zo... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p>"
+          },
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 23,
+            "description": "Bekijk de service desk"
+          },
+          {
+            "id": 24,
+            "description": "Reserveer een ticket"
+          },
+          {
+            "id": 25,
+            "description": "Voltooi de ticket"
+          },
+          {
+            "id": 26,
+            "description": "Ontvang feedback van klant"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "chapterTitle": "Kick-offs",
+        "contentBlocks": [
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          },
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1>Kick-offs: aftrap van het project</h1> <br> <p>Jouw eerste dag verloopt zus en zus en zo... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p>"
+          }
+        ],
+        "tasks": [
+          {
+            "id": 27,
+            "description": "Bewoon een kick-off bij"
+          },
+          {
+            "id": 28,
+            "description": "Doe een bijdrage aan de kick-off"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "chapterTitle": "Pijplijn",
+        "contentBlocks": [
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          },
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1>Projecten-pijplijn</h1> <br> <p>Jouw eerste dag verloopt zus en zus en zo... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p>"
+          }
+        ],
+        "tasks": [
+          {
+            "id": 29,
+            "description": "Bekijk de flow-chart"
+          },
+          {
+            "id": 30,
+            "description": "Loop deze door met een collega"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tools",
+    "intro": "Bij deze course maak je kennis met je nieuwe werkplek Partout en vertellen we je wat je nodig hebt om jouw avontuur hier te beginnen.",
+    "chapters": [
+      {
+        "id": 0,
+        "chapterTitle": "Jira",
+        "contentBlocks": [
+          {
+            "blockType": "mediaLeft",
+            "blockData": "<h1 class=\"Midas\">Jira</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>",
+            "imgPaths": [
+              "static/images/TestImageGroot.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 31,
+            "description": "Bekijk de tutorial"
+          },
+          {
+            "id": 32,
+            "description": "Maak een Jira-board"
+          },
+          {
+            "id": 33,
+            "description": "Bestudeer onze Jira-board"
+          },
+          {
+            "id": 34,
+            "description": "Voeg een kaartje toe"
+          }
+          ]
+      },
+      {
+        "id": 1,
+        "chapterTitle": "Confluence",
+        "contentBlocks": [
+          {
+            "blockType": "mediaLeft",
+            "blockData": "<h1>Confluence</h1> <br> <p>Jouw eerste dag verloopt zus en zus en zo... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p>",
+            "imgPaths": [
+              "static/images/TestImageGroot.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 35,
+            "description": "Bezoek Confluence"
+          },
+          {
+            "id": 36,
+            "description": "Lees de boomstructuur"
+          },
+          {
+            "id": 37,
+            "description": "Bewerk een Confluence-pagina"
+          },
+          {
+            "id": 38,
+            "description": "Maak een account aan"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "chapterTitle": "Sharepoint",
+        "contentBlocks": [
+          {
+            "blockType": "mediaRight",
+            "blockData": "<h1>Sharepoint</h1> <br> <p>Jouw eerste dag verloopt zus en zus en zo... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p>",
+            "imgPaths": [
+              "static/images/TestImageGroot.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 39,
+            "description": "Vraag een account aan"
+          },
+          {
+            "id": 40,
+            "description": "Invetariseer je klanten"
+          },
+          {
+            "id": 41,
+            "description": "Bekijk hun cases"
+          },
+          {
+            "id": 42,
+            "description": "Open een aantal documenten"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Front-end",
+    "intro": "Bij deze course maak je kennis met je nieuwe werkplek Partout en vertellen we je wat je nodig hebt om jouw avontuur hier te beginnen.",
+    "chapters": [
+      {
+        "id": 0,
+        "chapterTitle": "Client projects",
+        "contentBlocks": [
+          {
+            "blockType": "mediaRight",
+            "blockData": "<h1 class=\"Midas\">Jouw client projects</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>",
+            "imgPaths": [
+              "static/images/TestImageGroot.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 43,
+            "description": "Intvetariseer je klanten"
+          },
+          {
+            "id": 44,
+            "description": "Plan een eerste kennismaking"
+          },
+          {
+            "id": 45,
+            "description": "Controleer je verantwoordelijkheid"
+          },
+          {
+            "id": 46,
+            "description": "Bekijk cases van eerdere Partout-klanten"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "chapterTitle": "Tech stack",
+        "contentBlocks": [
+          {
+            "blockType": "mediaLeft",
+            "blockData": "<h1 class=\"Midas\">Tech stack</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>",
+            "imgPaths": [
+              "static/images/TestImageGroot.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 100,
+            "description": "Intvetariseer je klanten"
+          },
+          {
+            "id": 101,
+            "description": "Plan een eerste kennismaking"
+          },
+          {
+            "id": 102,
+            "description": "Controleer je verantwoordelijkheid"
+          },
+          {
+            "id": 103,
+            "description": "Bekijk cases van eerdere Partout-klanten"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "chapterTitle": "PoP",
+        "contentBlocks": [
+          {
+            "blockType": "mediaRight",
+            "blockData": "<h1 class=\"Midas\">Persoonlijk ontwikkel Plan (PoP)</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>",
+            "imgPaths": [
+              "static/images/TestImageGroot.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 47,
+            "description": "Neem de lay-out van de PoP over"
+          },
+          {
+            "id": 48,
+            "description": "Bespreek met je buddy jouw persoonlijke doelen"
+          },
+          {
+            "id": 49,
+            "description": "Voer jouw doelen door in je PoP"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "chapterTitle": "Standaard skills",
+        "contentBlocks": [
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1 class=\"Midas\">Standaard skills front-end</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>"
+          },
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 50,
+            "description": "Plan een afspraak met je buddy"
+          },
+          {
+            "id": 51,
+            "description": "Maak kennis met je buddy"
+          },
+          {
+            "id": 52,
+            "description": "Buddy ontmoet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Persoonlijke ontwikkeling",
+    "intro": "Bij deze course maak je kennis met je nieuwe werkplek Partout en vertellen we je wat je nodig hebt om jouw avontuur hier te beginnen.",
+    "chapters": [
+      {
+        "id": 0,
+        "chapterTitle": "Belbin",
+        "contentBlocks": [
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1 class=\"Midas\">Belbin</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>"
+          },
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 53,
+            "description": "Volg de tutorial"
+          },
+          {
+            "id": 54,
+            "description": "Maak een account aan"
+          },
+          {
+            "id": 55,
+            "description": "Gebruik Belbin"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "chapterTitle": "Skill Matrix",
+        "contentBlocks": [
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1 class=\"Midas\">Skill Matrix</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>"
+          },
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 56,
+            "description": "Neem samen met je buddy de skill-matrix door"
+          },
+          {
+            "id": 57,
+            "description": "Bestudeer de voor- en nadelen"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "chapterTitle": "X-Matrix en Jaardoelen",
+        "contentBlocks": [
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1 class=\"Midas\">X-Matrix en Jaardoelen</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>"
+          },
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collega.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 58,
+            "description": "Bekijk de jaardoelen"
+          },
+          {
+            "id": 59,
+            "description": "Bedenk zelf een aantal nieuwe jaardoelen"
+          },
+          {
+            "id": 60,
+            "description": "Bespreek deze met het team"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "chapterTitle": "PoP",
+        "contentBlocks": [
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1 class=\"Midas\">Persoonlijk ontwikkel Plan (PoP)</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>"
+          },
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 61,
+            "description": "Neem de lay-out van de PoP over"
+          },
+          {
+            "id": 62,
+            "description": "Bespreek met je buddy jouw persoonlijke doelen"
+          },
+          {
+            "id": 63,
+            "description": "Voer jouw doelen door in je PoP"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "chapterTitle": "Goed ondernemerschap",
+        "contentBlocks": [
+          {
+            "blockType": "mediaRight",
+            "blockData": "<h1 class=\"Midas\">Goed ondernemerschap</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 64,
+            "description": "Lees de Confluence-pagina's over Goed ondernemerschap"
+          },
+          {
+            "id": 65,
+            "description": "Bespreek het goed ondernemerschap met je collega's"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Tech Stack",
+    "intro": "Bij deze course maak je kennis met je nieuwe werkplek Partout en vertellen we je wat je nodig hebt om jouw avontuur hier te beginnen.",
+    "chapters": [
+      {
+        "id": 0,
+        "chapterTitle": "Docker",
+        "contentBlocks": [
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1 class=\"Midas\">Docker</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>"
+          },
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 66,
+            "description": "Volg de Docker-tutorial"
+          },
+          {
+            "id": 67,
+            "description": "Installeer Docker"
+          },
+          {
+            "id": 68,
+            "description": "Controleer of Docker werkt"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "chapterTitle": "POP",
+        "contentBlocks": [
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1 class=\"Midas\">POP</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>"
+          },
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 69,
+            "description": "Installeer POP"
+          },
+          {
+            "id": 70,
+            "description": "Maak een account"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "chapterTitle": "GIT",
+        "contentBlocks": [
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1 class=\"Midas\">GIT</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>"
+          },
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 71,
+            "description": "Vraag toestemming"
+          },
+          {
+            "id": 72,
+            "description": "Maak een account aan"
+          },
+          {
+            "id": 73,
+            "description": "Neem het testproject over"
+          },
+          {
+            "id": 74,
+            "description": "Maak een GIT-commit"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "chapterTitle": "PHP-Storm",
+        "contentBlocks": [
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1 class=\"Midas\">PHP-Storm</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>"
+          },
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 75,
+            "description": "Vraag een PHP-stormlicentie aan"
+          },
+          {
+            "id": 76,
+            "description": "Installeer PHP-storm"
+          },
+          {
+            "id": 77,
+            "description": "Koppel PHP-storm met GIT"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "chapterTitle": "Otap",
+        "contentBlocks": [
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1 class=\"Midas\">Otap</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>"
+          },
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 78,
+            "description": "Bestudeer de OTAP"
+          },
+          {
+            "id": 79,
+            "description": "Maak gebruik van de OTAP"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "chapterTitle": "Front-end tools",
+        "contentBlocks": [
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1 class=\"Midas\">Front-end build tools</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>"
+          },
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 80,
+            "description": "Controleer of je alle tools hebt"
+          },
+          {
+            "id": 81,
+            "description": "Volg eventueel een uitleg"
+          },
+          {
+            "id": 82,
+            "description": "Installeer de gene die je niet hebt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Algemene zaken",
+    "intro": "Bij deze course maak je kennis met je nieuwe werkplek Partout en vertellen we je wat je nodig hebt om jouw avontuur hier te beginnen.",
+    "chapters": [
+      {
+        "id": 0,
+        "chapterTitle": "Werkplek",
+        "contentBlocks": [
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1 class=\"Midas\">Werkplek</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>"
+          },
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 83,
+            "description": "Bezoek je werkplek"
+          },
+          {
+            "id": 84,
+            "description": "Stel je bureau juist af volgens de handleiding"
+          },
+          {
+            "id": 85,
+            "description": "Controleer of je telefoon werkt"
+          },
+          {
+            "id": 86,
+            "description": "Vraag om hulpmiddelen die je niet hebt"
+          }
+          ]
+      },
+      {
+        "id": 1,
+        "chapterTitle": "Keuken",
+        "contentBlocks": [
+          {
+            "blockType": "textWithFull",
+            "blockData": "<h1 class=\"Midas\">Keuken</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>"
+          },
+          {
+            "blockType": "imgWithFull",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 87,
+            "description": "Ruim de vaatwasser in"
+          },
+          {
+            "id": 88,
+            "description": "Ververs de koffiebonen"
+          },
+          {
+            "id": 89,
+            "description": "Zet koffie"
+          },
+          {
+            "id": 90,
+            "description": "Label je eten"
+          }
+          ]
+      },
+      {
+        "id": 2,
+        "chapterTitle": "Wie zit waar?",
+        "contentBlocks": [
+          {
+            "blockType": "mediaRight",
+            "blockData": "<h1 class=\"Midas\">Wie zit waar?</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 91,
+            "description": "Bekijk waar iedereen zit"
+          },
+          {
+            "id": 92,
+            "description": "Maak een plattegrond van ieders plaatsen"
+          },
+          {
+            "id": 93,
+            "description": "Maak kort kennis met iedereen"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "chapterTitle": "E-mailadres",
+        "contentBlocks": [
+          {
+            "blockType": "mediaLeft",
+            "blockData": "<h1 class=\"Midas\">E-mailadres</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 94,
+            "description": "Log in met je nieuwe e-mailadres"
+          },
+          {
+            "id": 95,
+            "description": "Controleer of sturen en ontvangen werkt"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "chapterTitle": "Teams",
+        "contentBlocks": [
+          {
+            "blockType": "mediaLeft",
+            "blockData": "<h1 class=\"Midas\">Teams</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 96,
+            "description": "Log in via Teams"
+          },
+          {
+            "id": 97,
+            "description": "Maak een Teams-afspraak aan"
+          },
+          {
+            "id": 98,
+            "description": "Stuur je buddy een PB"
+          }
+          ]
+      },
+      {
+        "id": 5,
+        "chapterTitle": "Agenda",
+        "contentBlocks": [
+          {
+            "blockType": "mediaLeft",
+            "blockData": "<h1 class=\"Midas\">Agenda</h1> <br> <p>Je buddy is iemand die... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi auctor pretium viverra in euismod sagittis amet, faucibus nunc. Pellentesque ipsum, magna diam id etiam. Cursus amet auctor pellentesque porta lectus fermentum. Cursus laoreet dictumst ultricies faucibus venenatis risus. </p> <h2>Wie je buddy is</h2> <br> <p>Je buddy is Sahid. consectetur adipiscing elit. Facilisi cursus a augue etiam. Turpis sit lacus, purus, lorem varius quam pretium. Viverra sit commodo sit dignissim lacinia vulputate ultricies. Gravida posuere erat aliquet tincidunt tincidunt est tristique. In dui, orci ac blandit viverra ac dui. Vitae lectus in dui justo. Id amet pharetra et egestas quis. Risus ultricies non amet egestas libero, fames tellus.</p> <br> <p>Viverra mattis dolor est duis consequat risus. Massa adipiscing id blandit sit id facilisis fames eget orci. Ultricies integer mi diam in blandit. Porta aliquet vitae sit montes. Tellus molestie ultrices porta aliquam viverra id sed. Leo non quam sapien id. Nullam eleifend quam viverra ultricies. Ac consequat tellus mauris mauris consectetur.</p> <h2>Contactgegevens van je buddy</h2> <ul> <li> e-mail </li> <li> Teams </li> <li> 06-12345687 </li> </ul>",
+            "imgPaths": [
+              "static/images/collegas/collegaMaarten.jpg",
+              "static/images/TestImageKlein.jpg"
+            ]
+          }
+        ],
+        "tasks": [
+          {
+            "id": 99,
+            "description": "Maak een afspraak aan"
+          },
+          {
+            "id": 100,
+            "description": "Plan een afspraak in"
+          },
+          {
+            "id": 101,
+            "description": "Bekijk je agenda"
+          }
+        ]
+      }
+    ]
+  }
+]

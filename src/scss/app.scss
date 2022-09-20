@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+// Base & utilities
+@import "variables.scss";
+@import "utils/functions.scss";
+@import "utils/mixins.scss";
+@import "utils/breakpoints.scss";
+@import "utils/typography.scss";
+
+// Global scss
+@import "global/reset.scss";
+@import "global/fonts.scss";
+@import "global/typography.scss";
+@import "global/elements.scss";
+@import "global/grid.scss";
+@import "global/buttons.scss";
+@import "global/form.scss";
+@import "global/index.scss";
+
+// Components
+@import "components/content.scss";
+@import "components/navbar.scss";
+@import "components/sidebar.scss";
+@import "components/module.scss";
+@import "components/ChapterSelector.scss";
+@import "components/onboarding.scss";
+@import "components/dashboardModule.scss";
+@import "components/collegas-apps.scss";
+
+// Content blocks
+@import "components/contentBlocks/BlockMediaRight.scss";
+@import "components/contentBlocks/BlockMediaLeft.scss";
+@import "components/contentBlocks/BlockMediaWithFull.scss";
+@import "components/contentBlocks/BlockTextWithFull.scss";
+

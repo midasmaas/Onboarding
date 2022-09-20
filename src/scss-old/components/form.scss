@@ -1,0 +1,71 @@
+.form {
+
+}
+
+.form__row {
+    margin-bottom: 24px;
+
+    @include breakpoint(md) {
+        margin-bottom: 32px;
+        max-width: 384px;
+    }
+
+    label {
+        display: block;
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 4px;
+
+        @include breakpoint(lg) {
+            margin-bottom: 8px;
+        }
+    }
+
+    input, select, textarea {
+        color: $color-darkgray;
+        font-family: $font-primary;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 20px;
+        width: 100%;
+        padding: 12px 10px;
+        border: 1px solid #102042;
+    }
+
+    input {
+
+        &::placeholder {
+            color: $color-darkgray;
+            opacity: 0.6;
+        }
+    }
+
+    select {
+
+    }
+
+    textarea {
+
+        &::placeholder {
+            color: $color-darkgray;
+            opacity: 0.6;
+        }
+    }
+
+    button {
+        width: 100%;
+        cursor: pointer;
+    }
+}
+
+.form__row--static-text {
+    max-width: 682px;
+
+    h3 {
+        font-family: $font-primary;
+        font-size: 22px;
+        line-height: 26px;
+        color: $color-navy;
+        font-weight: 500;
+    }
+}

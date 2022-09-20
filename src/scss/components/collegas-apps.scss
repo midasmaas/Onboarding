@@ -1,0 +1,248 @@
+//Collega- & apps - view
+
+$moduleBg: #FFFFFF;
+$white: #FFFFFF;
+$black: #222222;
+$yellow: #FFE91F;
+$blue: #5838FF;
+$warmGray: #FFF6EC;
+$lightGray: #F9F9F9;
+$mediumGray: #E7E7E7;
+$darkGray: #3D4047;
+
+.collegas-apps {
+  margin: 0 auto;
+  padding:  50px 0 0 0;
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  justify-content: center;
+
+  li {
+    margin-left: 16px;
+  }
+}
+
+.collegas-apps__container {
+  display: flex;
+  justify-items: center;
+  flex-direction: column;
+  width: 200px;
+  padding-bottom: 64px;
+  @include media-breakpoint-up(sm){
+    width: 600px;
+  }
+
+  @include media-breakpoint-up(lg) {
+    width: 1000px;
+  }
+
+  @include media-breakpoint-up(xxl) {
+    width: 1200px;
+  }
+
+  @include media-breakpoint-up(xxxl) {
+    width: 1400px;
+  }
+}
+
+.collegas-apps__grid {
+  display: inline-grid;
+  grid-template-columns: repeat(1, auto);
+  padding: 10px;
+  grid-gap: 50px;
+  align-items: center;
+  @include media-breakpoint-up(sm){
+    grid-template-columns: repeat(2, auto);
+  }
+  @include media-breakpoint-up(lg){
+    grid-template-columns: repeat(3, auto);
+  }
+
+  @include media-breakpoint-up(xxl){
+    grid-template-columns: repeat(4, 235px);
+  }
+
+  @include media-breakpoint-up(xxxl){
+    grid-template-columns: repeat(5, 235px);
+  }
+}
+
+.collegas-apps__item{
+  width: 235px;
+  background-color: $moduleBg;
+  border-radius: 8px;
+  padding: 24px;
+}
+
+// Collega - view specifiek
+.collegas__item__height {
+  height: fit-content;
+}
+
+.collegas__item__img {
+  width: 100%;
+}
+
+.collegas__item__name__function{
+  font-family: "GT Flexa";
+  margin: 12px 12px 12px 0;
+}
+
+.collegas__item__button {
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  background: #FEF7EF;
+  margin: 0 16px 0 0;
+  padding: 8px;
+  display: flex;
+  align-content: center;
+  img{
+    width: 18px;
+    height: 18px;
+  }
+  &:hover {
+    cursor: pointer;
+    -webkit-transition: all 300ms ease;
+    transition: all 300ms ease;
+    background-color: $yellow;
+  }
+}
+
+.collegas__item__button-container {
+  margin: 12px 12px 12px 0;
+  display: flex;
+  flex-direction: row;
+
+}
+
+// App - view specifiek
+.apps__item__height {
+  height: 320px;
+}
+
+.apps__item__img__container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 16px 0px;
+}
+
+.app__item__img {
+  width: 45px;
+}
+
+.app__item__title {
+  font-family: "GT Flexa";
+  margin-bottom: 16px;
+}
+
+.app__item__description{
+  margin-bottom: 16px;
+}
+
+//Filterbuttons
+
+.collegas-apps-filter-buttons__container {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  padding: 64px 0 6px 0;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  @include media-breakpoint-up(sm){
+    flex-wrap: nowrap;
+  }
+}
+
+.collegas-apps-filter-buttons__button {
+  width: 100%;
+  display: inline-flex;
+  flex-direction: row;
+  white-space: nowrap;
+  align-items: center;
+  //justify-content: center;
+  align-self: start;
+  padding: 6px 0 6px 0;
+
+  @include media-breakpoint-up(sm){
+    margin: 0 3px 0 3px;
+    padding: 0 3px 0 3px;
+  }
+  @include media-breakpoint-up(lg){
+    margin: 0 8px 0 8px;
+    padding: 0 8px 0 8px;
+  }
+}
+
+.collegas-apps-filter-buttons__button__active {
+  width: fit-content;
+  background-color: $blue;
+  padding: 8px 8px;
+  border-radius: 50px;
+  cursor: pointer;
+  p {
+    font-family: "GT Flexa";
+    font-size: 16px;
+    margin: 0px 8px;
+    color: $white;
+  }
+}
+
+
+.collegas-apps-filter-buttons__button__position__div {
+  width: fit-content;
+  background-color: $yellow;
+  padding: 8px 8px;
+  border-radius: 50px;
+
+  p {
+    font-family: "GT Flexa";
+    font-size: 16px;
+    margin: 0px 8px;
+    color: $darkGray;
+  }
+
+
+  &:hover {
+    cursor: pointer;
+    -webkit-transition: all 300ms ease;
+    transition: all 300ms ease;
+    background-color: $blue;
+    p {
+      color: $white;
+    }
+    svg {
+      fill: $white;
+    }
+  }
+}
+.collegas-apps-filter-buttons__button__not-active {
+  width: fit-content;
+  background-color: $yellow;
+  padding: 8px 8px;
+  border-radius: 50px;
+
+  p {
+    font-family: "GT Flexa";
+    font-size: 16px;
+    margin: 0px 8px;
+    color: $darkGray;
+  }
+
+
+  &:hover {
+    cursor: pointer;
+    -webkit-transition: all 300ms ease;
+    transition: all 300ms ease;
+    background-color: $blue;
+    p {
+      color: $white;
+    }
+    svg {
+      fill: $white;
+    }
+  }
+}
+
